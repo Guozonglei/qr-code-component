@@ -67,4 +67,4 @@ After continuous learning, I've found that to account for responsiveness across 
 
 - Website - [Guozonglei](https://www.your-site.com)
 - Frontend Mentor - [Guozonglei](https://www.frontendmentor.io/profile/Guozonglei)
-- Twitter - [@yourusername](https://www.twitter.com/guozonglei)
+- Twitter - [@guozonglei](https://www.twitter.com/guozonglei)
