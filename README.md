@@ -59,9 +59,9 @@ After continuous learning, I've found that to account for responsiveness across 
 
 - [MDN Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)：This is an official documentation from Mozilla, offering a comprehensive explanation on how to use media queries. MDN is one of the primary reference sources for front-end developers, with its content being both detailed and easy to understand.
 
-- [CSS-Tricks A Complete Guide to Responsive Web Design](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)：Description: The CSS-Tricks website provides a plethora of tutorials and tips. This particular guide is dedicated to the fundamentals and best practices of responsive design.
+- [CSS-Tricks A Complete Guide to Responsive Web Design](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)：The CSS-Tricks website provides a plethora of tutorials and tips. This particular guide is dedicated to the fundamentals and best practices of responsive design.
 
-- [Flexbox Froggy](https://flexboxfroggy.com/)：Description: This is an interactive game designed to help you learn and solidify your knowledge of Flexbox. By solving challenges in the game, you'll gain a deeper understanding of how Flexbox works.
+- [Flexbox Froggy](https://flexboxfroggy.com/)：This is an interactive game designed to help you learn and solidify your knowledge of Flexbox. By solving challenges in the game, you'll gain a deeper understanding of how Flexbox works.
 
 ## Author
 
